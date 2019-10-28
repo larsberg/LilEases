@@ -1,0 +1,23 @@
+{
+  "name": "lileases",
+  "version": "1.0.0",
+  "description": "easing functions",
+  "main": "eases.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsberg/LilEases.git"
+  },
+  "keywords": [
+    "easing",
+    "functins"
+  ],
+  "author": "lars berg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsberg/LilEases/issues"
+  },
+  "homepage": "https://github.com/larsberg/LilEases#readme"
+}
